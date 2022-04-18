@@ -1,5 +1,5 @@
 import "./style.css";
-import { OrbitControls } from "three/examples/jsm/controls/OrbitControls";
+import { OrbitControls } from "./controls/orbitalcontrols";
 import * as THREE from "three";
 // import { PointLight } from 'three';
 

@@ -1,7 +1,6 @@
 import "./style.css";
 import { OrbitControls } from "./controls/orbitalcontrols";
 import * as THREE from "./controls/three.module.js";
-// import { PointLight } from 'three';
 
 const scene = new THREE.Scene();
 

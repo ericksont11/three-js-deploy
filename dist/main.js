@@ -1,6 +1,6 @@
 import "./style.css";
-import { OrbitControls } from "./orbitalcontrols";
 import * as THREE from "./three.module.mjs";
+import { OrbitControls } from "./orbitalcontrols";
 
 const scene = new THREE.Scene();
 

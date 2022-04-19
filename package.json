@@ -9,7 +9,6 @@
     "deploy": "gh-pages -d dist"
   },
   "devDependencies": {
-    "vite": "^2.9.2",
     "webpack": "^5.72.0"
   },
   "dependencies": {
